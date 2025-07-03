@@ -58,7 +58,7 @@
   <a href="mailto:hammadalam37@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/syedhammadalamm" target="_blank">
+  <a href="https://github.com/SyedHammadAlam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
   </a>
 </p>
