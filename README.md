@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Syed Hammad Alam</h1>
 <h3 align="center">Cybersecurity Analyst | Full Stack Developer | AI-Powered Marketer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6363&center=true&vCenter=true&width=440&lines=Building+Digital+Futures;Cybersecurity+%7C+Web+Dev+%7C+Marketing;Let's+Create+Something+Epic+🔥" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
